@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import toast from "react-hot-toast";
 import { ShoppingCart } from "lucide-react";
 import { useUserStore } from "../stores/useUserStore";
